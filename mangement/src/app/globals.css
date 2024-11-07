@@ -1,0 +1,121 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Import Google Font */
+@import url("https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap");
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root,
+.app {
+  height: 100%;
+  width: 100%;
+  font-family: "Cutive Mono", monospace; /* Apply the custom font globally */
+  @apply bg-gray-500 text-sm text-gray-900;
+}
+
+/* Optional: Define a reusable class for the font */
+.cutive-mono-regular {
+  font-family: "Cutive Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+/* TIMELINE STYLING */
+._1nBOt {
+  font-family: "Cutive Mono", monospace;
+  font-size: 12px;
+}
+.timeline ._3_ygE {
+  font-family: "Cutive Mono", monospace;
+  font-size: 12px;
+  @apply rounded-tl-md border border-r-0 border-[#e6e4e4] dark:border-stroke-dark;
+}
+.timeline ._2eZzQ {
+  font-family: "Cutive Mono", monospace;
+  font-size: 12px;
+  @apply border-[#e6e4e4] dark:border-stroke-dark;
+}
+.timeline ._2dZTy {
+  font-family: "Cutive Mono", monospace;
+  font-size: 12px;
+  @apply fill-white dark:fill-dark-secondary;
+}
+.timeline ._2dZTy:nth-child(even) {
+  font-family: "Cutive Mono", monospace;
+  font-size: 12px;
+  @apply fill-[#f5f5f5] dark:fill-dark-tertiary;
+}
+.timeline ._35nLX {
+  font-family: "Cutive Mono", monospace;
+  font-size: 12px;
+  @apply fill-white stroke-[#e6e4e4] dark:fill-dark-secondary dark:stroke-stroke-dark;
+}
+.timeline ._9w8d5 {
+  font-family: "Cutive Mono", monospace;
+  font-size: 12px;
+  @apply fill-[#333] dark:fill-white;
+}
+.timeline ._34SS0 {
+  font-family: "Cutive Mono", monospace;
+  font-size: 12px;
+  @apply bg-white dark:bg-dark-secondary;
+}
+.timeline ._34SS0:nth-of-type(even) {
+  font-family: "Cutive Mono", monospace;
+  font-size: 12px;
+  @apply bg-[#f5f5f5] dark:bg-dark-tertiary;
+}
+.timeline ._RuwuK,
+.timeline ._3rUKi,
+.timeline ._1rLuZ {
+  font-family: "Cutive Mono", monospace;
+  font-size: 12px;
+  @apply stroke-[#e6e4e4] dark:stroke-stroke-dark;
+}
+.timeline ._3ZbQT {
+  font-family: "Cutive Mono", monospace;
+  font-size: 12px;
+  @apply border-l-0 border-[#e6e4e4] dark:border-stroke-dark;
+}
+.timeline ._3T42e {
+  font-family: "Cutive Mono", monospace;
+  font-size: 12px;
+  @apply bg-white dark:bg-dark-bg;
+}
+.timeline ._29NTg {
+  font-family: "Cutive Mono", monospace;
+  font-size: 12px;
+  @apply dark:text-neutral-500;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+  height: 0px;
+}
+
+
+.timeline_css {
+  font-family: "Cutive Mono", monospace;
+}
+
+
+/* Main container for centering content */
+.centered-container {
+  max-width: 1200px; /* Adjust max-width as needed */
+  margin: 0 auto;
+  padding: 0 20px; /* Optional padding for small screens */
+}
+
+/* Style adjustments for dashboard cards */
+.dashboard-card {
+  margin-bottom: 20px; /* Space between cards */
+}
