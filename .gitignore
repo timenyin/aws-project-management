@@ -1,0 +1,7 @@
+mangement/node_modules
+server/node_modules
+mangement/dist
+server/dist
+mangement/.env
+server/.env
+mangement/.next/
