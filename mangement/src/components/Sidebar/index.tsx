@@ -57,7 +57,7 @@ function Sidebar() {
           {/* Logo */}
           <div className="flex items-center gap-5 px-8 py-4 dark:border-gray-700">
             <Image
-              src="/Management_Logo.svg"
+              src="https://pm-s3-images-folder.s3.us-east-1.amazonaws.com/Management_Logo.svg"
               alt="Logo"
               width={60}
               height={60}

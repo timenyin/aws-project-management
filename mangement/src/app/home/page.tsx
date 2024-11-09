@@ -98,7 +98,7 @@ const HomePage = () => {
             <div className="centered-container container h-full w-[100%] bg-gray-100 bg-transparent p-8">
             <div className="text-2xl font-bold">
             {/* <Header name="Project Management Dashboard" isSmallText /> */}
-            <h1 className="text-2xl font-semibold dark:text- py-4">Project Management Dashboard</h1>
+            <h1 className="text-2xl font-semibold dark:text-white py-4">Project Management Dashboard</h1>
           </div>
               <div className="grid grid-cols-1 gap-4 md:grid-cols-2">
                 <div className="dashboard-cards rounded-lg bg-white p-4 shadow dark:bg-dark-secondary">

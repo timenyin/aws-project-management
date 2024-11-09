@@ -40,7 +40,7 @@ const Search = () => {
                         type="text"
                         placeholder="Search..."
                         className="rounded border p-3 shadow"
-                        style={{ width: '350px' }}
+                        style={{ width: '320px' }}
                         onChange={handleSearch}
                     />
                 </div>

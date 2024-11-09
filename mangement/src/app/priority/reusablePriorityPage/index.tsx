@@ -110,7 +110,7 @@ const ReusablePriorityPage = ({ priority }: Props) => {
             <button
               className={`px-4 py-2 ${
                 view === "list" ? "bg-gray-300" : "bg-white"
-              } rounded-l`}
+              } rounded-0`}
               onClick={() => setView("list")}
             >
               List
@@ -118,7 +118,7 @@ const ReusablePriorityPage = ({ priority }: Props) => {
             <button
               className={`px-4 py-2 ${
                 view === "table" ? "bg-gray-300" : "bg-white"
-              } rounded-l`}
+              } rounded-0`}
               onClick={() => setView("table")}
             >
               Table
