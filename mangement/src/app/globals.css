@@ -120,11 +120,11 @@ body,
   margin-bottom: 20px; /* Space between cards */
 }
 
-
 /* login style */
 .data-amplify-authenticator {
-      display: flex
-      justifyContent: center,
-      alignItems: center
-      height:100vh
+    display: flex; /* Add this semicolon */
+    justify-content: center;
+    align-items: center;
+     height:100vh;
 }
+
