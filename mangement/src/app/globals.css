@@ -119,3 +119,12 @@ body,
 .dashboard-card {
   margin-bottom: 20px; /* Space between cards */
 }
+
+
+/* login style */
+.data-amplify-authenticator {
+      display: flex
+      justifyContent: center,
+      alignItems: center
+      height:100vh
+}
