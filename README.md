@@ -1,13 +1,6 @@
 # Build a Complete Project Management Dashboard
 
-[![Tutorial Video](https://img.youtube.com/vi/KAV8vo7hGAo/0.jpg)](https://www.youtube.com/watch?v=KAV8vo7hGAo)
-
-This repository hosts the code for a comprehensive tutorial on building a Project Management Dashboard using Next.js, Node.js, and AWS services.
-Follow the [video tutorial on YouTube](https://www.youtube.com/watch?v=KAV8vo7hGAo) for detailed setup, configuration, and deployment instructions.
-
-## Join Our Community
-
-For discussion and support for this specific app, join our [Discord community](https://discord.com/channels/1070200085440376872/1082900634442940416/threads/1282730219488280576).
+![Project Diagram](https://drive.google.com/uc?id=1mE1dVOm-DQxtZuDRl8DArj4sb1Zr391T)
 
 ## Technology Stack
 
