@@ -78,8 +78,13 @@ Ensure you have these tools installed:
 ### Database Management Commands
 <p align="center">
   <img src="https://drive.google.com/uc?id=1V42XziASie7vGrMf0IVP7QLJKJ7Uyf5p" alt="Description of Image">
-</p>
-- [Database Flow Diagram](obsidian://open?vault=H2k_Management%20App&file=Data%20Model%20Diagram.canvas)
+</p> 
+
+### Database Flow Diagram
+- Get the Database Flow Diagram:
+  ```sql
+  obsidian://open?vault=H2k_Management%20App&file=Data%20Model%20Diagram.canvas
+  ```
 
 - Command for resetting ID in database:
   ```sql
