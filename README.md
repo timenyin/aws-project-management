@@ -1,6 +1,6 @@
 # Build a Complete Project Management Dashboard
 
-<p align="center">
+<p align="left">
   <img src="https://drive.google.com/uc?id=1mE1dVOm-DQxtZuDRl8DArj4sb1Zr391T" alt="Project Diagram">
 </p>
 
