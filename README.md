@@ -1,7 +1,7 @@
 # Build a Complete Project Management Dashboard
 
-<p align="left">
-  <img src="https://drive.google.com/uc?id=1mE1dVOm-DQxtZuDRl8DArj4sb1Zr391T" alt="Project Diagram">
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1ktTkqLM95DdR-c1s8bmUeeoKQM3-uSak" alt="Project Diagram">
 </p>
 
 
@@ -23,6 +23,10 @@ Ensure you have these tools installed:
 - npm (Node Package Manager)
 - PostgreSQL ([download](https://www.postgresql.org/download/))
 - PgAdmin ([download](https://www.pgadmin.org/download/))
+
+  <p align="left">
+  <img src="https://drive.google.com/uc?id=1mE1dVOm-DQxtZuDRl8DArj4sb1Zr391T" alt="Project Diagram">
+</p>
 
 ### Installation Steps
 
@@ -52,6 +56,8 @@ Ensure you have these tools installed:
 
 ## Additional Resources
 
+
+
 ### Code Repositories and Configuration Files
 
 - [Complete project code on GitHub](https://github.com/ed-roh/project-management)
@@ -62,6 +68,7 @@ Ensure you have these tools installed:
 - [globals.css file (to copy for Gantt charts)](https://github.com/ed-roh/project-management/blob/master/client/src/app/globals.css)
 - [AWS EC2 Instruction file](https://github.com/ed-roh/project-management/blob/master/server/aws-ec2-instructions.md)
 
+
 ### Diagrams and Models
 
 - [Data model diagram](https://lucid.app/lucidchart/877dec2c-db89-4f7b-9ce0-80ce88b6ee37/edit)
@@ -69,6 +76,10 @@ Ensure you have these tools installed:
 - [AWS Cognito flow diagram](https://lucid.app/lucidchart/9e17e28e-6fe5-41df-b04b-b378fa21eb8f/edit)
 
 ### Database Management Commands
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1V42XziASie7vGrMf0IVP7QLJKJ7Uyf5p" alt="Description of Image">
+</p>
+- [Database Flow Diagram](obsidian://open?vault=H2k_Management%20App&file=Data%20Model%20Diagram.canvas)
 
 - Command for resetting ID in database:
   ```sql
